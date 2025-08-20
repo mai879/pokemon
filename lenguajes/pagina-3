@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>crabrawle</title>
+</head>
+<body style="background-color: rgb(251, 253, 132); font-family: Verdana, Geneva, Tahoma, sans-serif;">
+    <h1 class="azul" style="color: rgb(148, 74, 114); padding: 20px; background-color: rgb(103, 175, 204)">crabrawle</h1>
+    <nav>
+        <ul>
+            <li style="line-height: 30px;"><a href="html.html" style="background-color: rgb(167, 49, 161); color: aliceblue; text-decoration: none; padding: 5px;">budew</a></li>
+            <li style="line-height: 30px;"><a href="pagina-2.html" style="background-color: rgb(167, 49, 161); color: aliceblue; text-decoration: none; padding: 5px;">ralts</a></li>
+            <li style="line-height: 30px;"><a href="pagina-3" style="background-color: rgb(167, 49, 161); color: aliceblue; text-decoration: none; padding: 5px;">crabrawle</a></li>
+        </ul>
+    </nav>
+    <img src= "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/739.png" style="width: 300px;">
+</body>
+</html>
